@@ -7,7 +7,9 @@ This repo holds code snippets that I am proud of
 This challenge propose a matrix such as:
 
 {'A', 'B', 'R'}
+
 {'C', 'Y', 'P'}
+
 {'H', 'U', 'L'}
 
 given an array of words, we must return the words that can be put togteher in the matrix following the next simple rules:
